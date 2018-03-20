@@ -1,0 +1,8 @@
+The *.exe file is an application that will add tags to all the *.mp3 files in the directory it is placed in, so they get shuffled.
+
+There cannot be another *.exe file in the same directory.
+The application has to be called "shuffle.exe" or "unshuffle.exe" depending on what you want the application to do.
+
+If it is called "shuffle.exe", it will either add tags to untagged music files or reshuffle the already tagged files.
+
+If it is called "unshuffle.exe", it will remove the tags on all the tagged music files.
